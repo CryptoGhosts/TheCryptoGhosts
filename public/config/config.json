@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE3Bcd10515F0Cbf6E90B1Dd858cbd7C3D350Cc06",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE3Bcd10515F0Cbf6E90B1Dd858cbd7C3D350Cc06",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TheCryptoGhosts",
+  "SYMBOL": "CG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecryptoghosts",
+  "SHOW_BACKGROUND": true
+}
